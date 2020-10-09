@@ -4,7 +4,7 @@ Siga as etapas abaixo na ordem, ou mude a ordem conforme necessário ?!?
 
 1.  Instale o Visual Studio Community 2019 ou Visual Code
 	Se vire com os links
-		OBS: Com o visual Studio é mais fácil, ao instalar coloque o recurso C++ só isso já fará 90% do trabalho , com o Visual code é muito mais leve, mas mais etapas manuais para configurar, instale o plugin C++ da microsoft;
+	OBS: Com o visual Studio é mais fácil, ao instalar coloque o recurso C++ só isso já fará 90% do trabalho , com o Visual code é muito mais leve, mas mais etapas manuais para configurar, instale o plugin C++ da microsoft;
 (Instalar o C++ no Visual Studio [clique aqui, imagem](https://miro.medium.com/max/1000/1*XMBE6Zi2KgPpd9UTsTpy-Q.png))
 2. Faça download do .zip do FreeGlut [link aqui, dessa vez vou ser bonzinho](http://www.transmissionzero.co.uk/software/freeglut-devel/ "link aqui, dessa vez vou ser bonzinho")
 3. Faça o download do .zip do GLEW  [link aqui :)](http://glew.sourceforge.net/ "link aqui :)")
