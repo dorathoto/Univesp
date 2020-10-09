@@ -9,7 +9,7 @@ Siga as etapas abaixo na ordem, ou mude a ordem conforme necessário ?!?
 2. Faça download do .zip do FreeGlut [link aqui, dessa vez vou ser bonzinho](http://www.transmissionzero.co.uk/software/freeglut-devel/ "link aqui, dessa vez vou ser bonzinho")
 3. Faça o download do .zip do GLEW  [link aqui :)](http://glew.sourceforge.net/ "link aqui :)")
 4. Abra o executar (Win + R) e digite: `%PROGRAMFILES(X86)%\Microsoft SDKs\Windows`
-5. Copie o conteúdo da pasta /lib do FreeGLUT para a pasta Lib do SDK do Windows .
-Copie o conteúdo da pasta include \ GL do FreeGLUT para a pasta Include \ gl do SDK do Windows
+5. Copie o conteúdo da pasta /lib do FreeGLUT para a pasta Lib do SDK do Windows.
+6. Copie o conteúdo da pasta \include\GL do FreeGLUT para a pasta Include\gl do SDK do Windows
 
 O Resto do help finalizo hj a noite(9/10) ou amanhã ou nunca.
